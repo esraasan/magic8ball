@@ -15,7 +15,7 @@ body {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: #000;
+    background-color: #142c3587;
     margin-bottom: 20px;
     cursor: pointer;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5), 0 0 10px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.2);
@@ -27,7 +27,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100%;
-    color: #fff;
+    color: #ffffff;
     font-size: 5rem;
     font-weight: bold;
 }
